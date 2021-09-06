@@ -7,6 +7,7 @@ The purpose of this analysis was to replace the math and reading scores for Thom
 - How is the district summary affected?
 
 Before the data cleanup:
+
 <img width="806" alt="Screen Shot 2021-09-05 at 9 52 11 PM" src="https://user-images.githubusercontent.com/88108455/132149671-9bf69965-65d3-4ed3-931e-e32238dc8c05.png">
 
 After the data cleanup:
